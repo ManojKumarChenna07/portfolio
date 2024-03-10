@@ -12,7 +12,7 @@ function Home() {
       <h2 className='text-4xl sm:text-7xl font-bold text-[#ffffff]'>
         I'm a Web Developer.
       </h2>
-      <p className='text-[#ffffff] py-4 max-w-[700px]'>
+      <p className='animate-pulse text-[#ffffff] py-4 max-w-[700px]'>
         I’m a Web developer specializing in building (and occasionally
         designing) exceptional digital experiences. Currently, I’m focused on
         building responsive full-stack web applications.
